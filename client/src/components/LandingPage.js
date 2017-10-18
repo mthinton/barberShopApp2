@@ -13,7 +13,7 @@ class LandingPage extends React.Component{
 		<div className='LandingPageText'>
 
 		<div className='wallpaper'>
-			<Video/>
+			
 		</div>
 
 		<h1> Welcome to H. Smith </h1>
